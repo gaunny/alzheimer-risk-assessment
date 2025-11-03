@@ -8,3 +8,5 @@ numpy==2.3.1
 pydantic==2.10.6
 python-multipart==0.0.6
 tenacity==9.0.0
+faiss==1.9.0
+faiss-cpu==1.11.0.post1
